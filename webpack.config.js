@@ -30,7 +30,5 @@ module.exports = {
   },
   plugins: [
     new CleanWebpackPlugin(),
-    new CompressionPlugin({
-    }),
   ]
 }
